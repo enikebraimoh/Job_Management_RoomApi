@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Job Adverts</string>
+
+    <!--Job Profile Layout Hints-->
+    <string name="layout_hint_password">Password</string>
+    <string name="layout_hint_password2">Confirm Password</string>
+    <string name="layout_hint_email">Enter Email Address</string>
+    <string name="layout_hint_first_name">Enter First Name</string>
+    <string name="layout_hint_lastname">Enter Last Name</string>
+    <string name="layout_hint_cellphone">Enter Cell Number</string>
+    <string name="layout_hint_id_no">Identity Number</string>
+    <string name="layout_hint_highest_qualification">Highest Qualification</string>
+    <string name="layout_hint_study_field">Field of Study</string>
+
+    <!--Job Advert Layout Hints-->
+    <string name="layout_hint_job_title">Job Title</string>
+    <string name="layout_hint_appointment_type">Appointment Type</string>
+    <string name="layout_hint_job_position">Job Position</string>
+    <string name="layout_hint_job_location">Job Location</string>
+    <string name="layout_hint_advertising_company">Advertising Company</string>
+    <string name="layout_hint_job_description">Job Description</string>
+    <string name="layout_hint_min_qualification">Minimum Qualification</string>
+    <string name="layout_hint_gross_salary">Monthly Gross Salary</string>
+
+    <!--Profile Placeholders-->
+    <string name="layout_password_placeholder">Password</string>
+    <string name="layout_password2_placeholder">Confirm Password</string>
+    <string name="layout_email_placeholder">Email Address</string>
+    <string name="layout_first_name_placeholder">First Name</string>
+    <string name="layout_last_name_placeholder">Last Name</string>
+    <string name="layout_cell_placeholder">Cellphone Number</string>
+    <string name="layout_identity_no_placeholder">Identity Number</string>
+    <string name="layout_highest_qualification_placeholder">Highest Qualification</string>
+    <string name="layout_field_of_study_placeholder">Field of Study</string>
+
+    <!--Job Advert Placeholders-->
+    <string name="layout_job_title_placeholder">Job Title</string>
+    <string name="layout_appointment_type_placeholder">Appointment Type</string>
+    <string name="layout_job_position_placeholder">Job Position</string>
+    <string name="layout_job_location_placeholder">Job Location</string>
+    <string name="layout_ad_company_placeholder">Advertising Company</string>
+    <string name="layout_job_description_placeholder">Job Description</string>
+    <string name="layout_min_qualification_placeholder">Minimum Qualification</string>
+    <string name="layout_gross_salary_placeholder">Monthly Gross Salary</string>
+
+    <!--Profile Icon descriptions-->
+    <string name="password_icon_description">Password icon</string>
+    <string name="email_icon_description">Email icon</string>
+    <string name="person_icon_description">Person icon</string>
+    <string name="phone_icon_description">Phone icon</string>
+    <string name="id_no_icon_description">ID No</string>
+    <string name="qualification_icon_description">Highest Qualification</string>
+    <string name="field_of_study_icon_description">Field of Study</string>
+
+    <!--Job Advert Icon descriptions-->
+    <string name="title_icon_description">Title icon</string>
+    <string name="app_type_icon_description">App icon</string>
+    <string name="position_icon_description">Position icon</string>
+    <string name="location_icon_description">Location icon</string>
+    <string name="add_company_icon_description">Advertising Company Icon</string>
+    <string name="job_description_icon_description">Job Description Icon</string>
+    <string name="min_qualification_icon_description">Min Qualification Icon</string>
+    <string name="gross_salary_icon_description">Gross Salary icon</string>
+
+    <!--Headings-->
+    <string name="register_profile">Register Profile</string>
+    <string name="job_adverts">Job Adverts</string>
+    <string name="toast_image">toast_image</string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+    <string name="r">R</string>
+    <string name="todo">TODO</string>
+
+    <array name="qualification_list">
+        <item>Matric</item>
+        <item>Diploma</item>
+        <item>Advanced Diploma</item>
+        <item>Masters Degree</item>
+        <item>Doctorate Degree</item>
+    </array>
+
+    <array name="education_list">
+        <item>Business</item>
+        <item>Education</item>
+        <item>Technology</item>
+        <item>Engineering</item>
+        <item>Arts and Culture</item>
+        <item>Health and Environmental</item>
+    </array>
+
+    <array name="appointment_list">
+        <item>Part time</item>
+        <item>Full time</item>
+        <item>Fixed contract</item>
+    </array>
+
+    <array name="job_position_list">
+        <item>Internship</item>
+        <item>Entry Level</item>
+        <item>Junior Post</item>
+        <item>Senior Post</item>
+        <item>Manager Post</item>
+    </array>
+
+    <array name="job_location_list">
+        <item>Welkom</item>
+        <item>Durban</item>
+        <item>Sandton</item>
+        <item>Cape Town</item>
+        <item>Centurion</item>
+        <item>Polokwane</item>
+        <item>Potchefstroom</item>
+        <item>Bloemfontein</item>
+    </array>
+
+</resources>

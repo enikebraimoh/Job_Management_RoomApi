@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPurple</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textInputLayoutStyle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/colorPurple</item>
+    </style>
+
+    <style name="FloatingHintStyle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/colorPurple</item>
+    </style>
+
+
+</resources>
